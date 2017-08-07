@@ -1,0 +1,27 @@
+# Site settings
+title: 'Nice Shot'  # Your Title
+tagline: 'To find something interesting'  # A brief tagline for your site
+timezone: 'Asia/Qingdao'
+destination: ./_site
+
+# Build settings
+encoding: UTF-8
+markdown: kramdown
+#for publish
+#highlighter: pygments
+#for local
+#highlighter: true
+baseurl: # the subpath of your site, e.g. /blog/
+codeurl: /code/
+fragmenturl: /fragment/
+
+# Personal info
+avatar: //https://pbs.twimg.com/media/DGeEDOhVwAE_VFO.jpg:large
+email: miadouli@gmail.com
+github: https://github.com/mia-dou
+weibo: //http://weibo.com/5373116410/profile?topnav=1&wvr=6
+music: //http://music.163.com/#/user/home?id=73660051
+twitter: https://twitter.com/Mia_Doudou
+
+# Logo setting
+logocolor: '#000'
