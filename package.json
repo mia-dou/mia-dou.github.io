@@ -1,7 +1,7 @@
 {
   "name": "mia-dou.github.io",
   "version": "1.0.0",
-  "description": "Hey, friends ~ Here is my blog ☞  [[ Nice Shot ! ]](http://www.dmia.me/)",
+  "description": "Hey, friends ~ Here is my blog ☞  [[ Hello Mia ! ]](http://www.dmia.me/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,7 @@
     "blog",
     "code"
   ],
-  "author": "mia-dou (zhao.mia-dou@gmail.com)",
+  "author": "mia-dou (miadouli@gmail.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mia-dou/mia-dou.github.io/issues"
